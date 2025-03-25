@@ -22,8 +22,5 @@ pip install -r requirements.txt
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/5be4cfc3-a7ba-4d3f-90fd-19f82accb290
-
-
+https://github.com/user-attachments/assets/02d046ec-decb-4326-9ca6-9902ee0072a1
 

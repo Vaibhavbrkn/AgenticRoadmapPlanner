@@ -18,7 +18,7 @@ An AI Agent which Plan Learning RoadMap for you
 ```bash
 pip install -r requirements.txt
 ```
-- **Create .env and use below constant**
+
 
 ## Demo
 
